@@ -1,5 +1,5 @@
 # devops-aula02
-# Luana
-# Noah - alterado
-# Zion
-# Ariane
+* Luana
+* Noah - alterado
+* Zion
+* Ariane
