@@ -1,3 +1,3 @@
-som 01
-som 02
-som 03
+# som 01
+# som 02
+# som 03
